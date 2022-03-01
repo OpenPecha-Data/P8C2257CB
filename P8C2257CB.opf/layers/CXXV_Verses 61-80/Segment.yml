@@ -1,0 +1,104 @@
+id: e8d78fc69bc04773bc312cd26896d58b
+annotation_type: Segment
+revision: '00001'
+annotations:
+  d079c61a56094d13b3f4464219a57109:
+    span:
+      start: 0
+      end: 139
+    metadata: {}
+  897da75398ad4905b375318369d2ccc4:
+    span:
+      start: 142
+      end: 284
+    metadata: {}
+  eb7cea0865ad47249b0895d30452791d:
+    span:
+      start: 287
+      end: 426
+    metadata: {}
+  bcbcd32d861746548af8bec50fad29dc:
+    span:
+      start: 429
+      end: 566
+    metadata: {}
+  197a78bce5e54859bc768db61d4c0a5d:
+    span:
+      start: 569
+      end: 786
+    metadata: {}
+  a284e1c7c0604e919d454760b1ef1d48:
+    span:
+      start: 789
+      end: 1002
+    metadata: {}
+  4199d4ee0f034bab93671f2eeb4e5a2a:
+    span:
+      start: 1005
+      end: 1226
+    metadata: {}
+  26f11beaea9247bc90fbba833d062926:
+    span:
+      start: 1229
+      end: 1428
+    metadata: {}
+  9f19121223ed4a06ba03dfe10919a4b8:
+    span:
+      start: 1431
+      end: 1628
+    metadata: {}
+  6c2b9fbb0cd24f7aa5e2674ed58cef66:
+    span:
+      start: 1631
+      end: 1839
+    metadata: {}
+  fc1d437bbe6940eea59d521e4521a991:
+    span:
+      start: 1842
+      end: 2034
+    metadata: {}
+  37608625755f4896bcf9c2bf874d771c:
+    span:
+      start: 2037
+      end: 2244
+    metadata: {}
+  e8bf0289e98f46268f8cb0d5ac5064d8:
+    span:
+      start: 2247
+      end: 2444
+    metadata: {}
+  8eb4f3f4804b4640a7bd08de0f79bb4f:
+    span:
+      start: 2447
+      end: 2659
+    metadata: {}
+  204a907127f44a3cb8c5c36fa5b87617:
+    span:
+      start: 2662
+      end: 2865
+    metadata: {}
+  c3aebdf20bd24a058bbbdae5d1b911f6:
+    span:
+      start: 2868
+      end: 3076
+    metadata: {}
+  f960aad020b144ceb61664b0ed74251f:
+    span:
+      start: 3079
+      end: 3275
+    metadata: {}
+  a0a0590166784477bc83bed1b9c66a5e:
+    span:
+      start: 3278
+      end: 3481
+    metadata: {}
+  cf3bd5879f594b0e88acc3f46572d54f:
+    span:
+      start: 3484
+      end: 3684
+    metadata: {}
+  48945f3c16724c928b3cbba5f0609e0e:
+    span:
+      start: 3687
+      end: 3900
+    metadata: {}
